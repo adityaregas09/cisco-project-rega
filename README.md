@@ -1,4 +1,4 @@
-# Cisco CCNA Learning Journey Tahu Bulat 🚀
+# Cisco CCNA Learning Journey  🚀
 
 > A comprehensive collection of Cisco networking configurations and labs covering CCNA curriculum fundamentals.
 
@@ -24,8 +24,8 @@ This repository documents my learning progression in Cisco networking, from basi
 ```
 cisco-project-rega/
 ├── basic-cisco-ccna/
-│   ├── 1-router-configuration.pkt
-│   ├── 2-switch-configuration.pkt
+│   ├── 1-basic-switch.pkt
+│   ├── 2-basic-router.pkt
 │   ├── 3-vlan-setup.pkt
 │   ├── 4-static-routing.pkt
 │   └── README.md
