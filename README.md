@@ -26,8 +26,12 @@ cisco-project-rega/
 ├── basic-cisco-ccna/
 │   ├── 1-basic-switch.pkt
 │   ├── 2-basic-router.pkt
-│   ├── 3-vlan-setup.pkt
-│   ├── 4-static-routing.pkt
+│   ├── 3-basic-vlan.pkt
+│   ├── 4-intermediate-vlan.pkt
+│   ├── 5-upper-intermediate-vlan.pkt
+│   ├── 6-inter-vlan-routing-with-dhcp.pkt
+│   ├── 7-basic-switch-virtual-interface.pkt
+│   ├── 8-exam-vlan.pkt
 │   └── README.md
 ├── lab-cisco-ccna/
 │   ├── simple-labs/
