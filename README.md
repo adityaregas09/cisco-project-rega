@@ -32,6 +32,8 @@ cisco-project-rega/
 │   ├── 6-inter-vlan-routing-with-dhcp.pkt
 │   ├── 7-basic-switch-virtual-interface.pkt
 │   ├── 8-exam-vlan.pkt
+│   ├── 9-remote-access-telnet.pkt
+│   ├── 10-remote-access-ssh.pkt
 │   └── README.md
 ├── lab-cisco-ccna/
 │   ├── simple-labs/
