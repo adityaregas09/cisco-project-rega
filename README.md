@@ -25,6 +25,9 @@ This repository documents my learning progression in Cisco networking, from basi
 cisco-project-rega/
 ├── basic-cisco-ccna/
 │   ├── 1-basic-switch.pkt
+│   ├── 10-remote-access-ssh.pkt
+│   ├── 11-basic-vlan-trunking-protocol.pkt
+│   ├── 12-exam-vlan-trunking-protocol.pkt
 │   ├── 2-basic-router.pkt
 │   ├── 3-basic-vlan.pkt
 │   ├── 4-intermediate-vlan.pkt
@@ -33,7 +36,6 @@ cisco-project-rega/
 │   ├── 7-basic-switch-virtual-interface.pkt
 │   ├── 8-exam-vlan.pkt
 │   ├── 9-remote-access-telnet.pkt
-│   ├── 10-remote-access-ssh.pkt
 │   └── README.md
 ├── lab-cisco-ccna/
 │   ├── simple-labs/
