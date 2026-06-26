@@ -28,6 +28,12 @@ cisco-project-rega/
 │   ├── 10-remote-access-ssh.pkt
 │   ├── 11-basic-vlan-trunking-protocol.pkt
 │   ├── 12-exam-vlan-trunking-protocol.pkt
+│   ├── 13-port-security-violation-protect.pkt
+│   ├── 14-port-security-violation-restirct.pkt
+│   ├── 15-port-security-violation-protect.pkt
+│   ├── 16-switch-2-3-spanning-tree-protocol.pkt
+│   ├── 17-per-vlan-spanning-tree-protocol.pkt
+│   ├── 18-spanning-tree-portfast.pkt
 │   ├── 2-basic-router.pkt
 │   ├── 3-basic-vlan.pkt
 │   ├── 4-intermediate-vlan.pkt
