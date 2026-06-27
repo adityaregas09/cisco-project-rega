@@ -12,11 +12,6 @@
 
 This repository documents my learning progression in Cisco networking, from basic configurations to advanced lab scenarios. Each file is organized by difficulty level and topic, making it easy to follow the CCNA curriculum step by step.
 
-**Who is this for?**
-- Students preparing for Cisco CCNA certification
-- Network enthusiasts learning Cisco Packet Tracer
-- Anyone looking for practical Cisco configuration examples
-
 ---
 
 ## 📁 Repository Structure
@@ -72,8 +67,6 @@ Essential Cisco concepts for beginners:
 - Static routing basics
 - Default gateway setup
 
-**Best for:** Getting started with Cisco devices
-
 ### **lab-cisco-ccna/** → Hands-On Practice
 Progressive lab scenarios from simple to complex:
 
@@ -82,36 +75,6 @@ Progressive lab scenarios from simple to complex:
 | **Simple** | Basic topology, Inter-VLAN routing | 2 labs |
 | **Intermediate** | OSPF, EIGRP routing protocols | 2 labs |
 | **Advanced** | ACLs, NAT, Security configurations | 2+ labs |
-
-**Best for:** Practical application & exam prep
-
----
-
-## 🚀 How to Use
-
-### Prerequisites
-- **Cisco Packet Tracer** (free download from [Cisco Networking Academy](https://www.netacad.com))
-- Basic understanding of networking concepts (OSI model, IP addressing)
-
-### Getting Started
-
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/aditya-rega-safi/cisco-project-rega.git
-   cd cisco-project-rega
-   ```
-
-2. **Start with the basics:**
-   - Open any `.pkt` file from `basic-cisco-ccna/`
-   - Read the embedded topology description
-   - Follow the configuration steps
-
-3. **Progress to labs:**
-   - Move to `lab-cisco-ccna/simple-labs/` after mastering basics
-   - Increase difficulty gradually
-
-4. **Reference commands:**
-   - Check `documentation/commands-reference.md` when stuck
 
 ---
 
@@ -123,8 +86,8 @@ Progressive lab scenarios from simple to complex:
 - ✅ Inter-VLAN Routing
 - ✅ Access Control Lists (ACLs)
 - ✅ Network Address Translation (NAT)
-- ⏳ DHCP Configuration (coming soon)
-- ⏳ Spanning Tree Protocol (coming soon)
+- ✅ DHCP Configuration (coming soon)
+- ✅ Spanning Tree Protocol (coming soon)
 
 ---
 
@@ -165,17 +128,6 @@ Progressive lab scenarios from simple to complex:
 
 ---
 
-## 📈 Progress Tracker
-
-- [x] Basic Router Configuration
-- [x] Basic Switch Configuration
-- [x] VLAN Setup
-- [x] Simple Lab Scenarios
-- [ ] Advanced Security Configurations
-- [ ] Complete CCNA Mock Exams
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
@@ -196,14 +148,14 @@ Found a mistake or have improvements? Feel free to:
 ## 👤 About
 
 **Name:** Aditya Rega Safi'i  
-**Focus Areas:** Cisco Networking, Linux System Administration, Network Engineering  
-**Current Goal:** CCNA Certification & Entry-Level Network Engineer Role  
-**LinkedIn:** [aditya-rega-safi](https://linkedin.com/in/aditya-rega-safi)  
-**GitHub:** [@aditya-rega-safi](https://github.com/aditya-rega-safi)
+**Focus Areas:** Cisco Networking, MikroTik, Linux & Windows Server Administration 
+**Current Goal:** CCNA Certification & Entry-Level Network Engineer Role
+**LinkedIn:** [Aditya Rega Safi'i](https://linkedin.com/in/aditya-rega-safi-i-0b1441378)  
+**GitHub:** [@adityaregas09](https://github.com/adityaregas09)
 
 ---
 
-**Last Update:** June 22, 2026  
-**Repository:** [cisco-project-rega](https://github.com/aditya-rega-safi/cisco-project-rega)  
+**Last Update:** June 30, 2026  
+**Repository:** [cisco-project-rega](https://github.com/adityaregas09/cisco-project-rega)  
 
 ⭐ If this helps your learning, please star the repository!
