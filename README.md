@@ -29,7 +29,9 @@ cisco-project-rega/
 │   ├── 16-switch-2-3-spanning-tree-protocol.pkt
 │   ├── 17-per-vlan-spanning-tree-protocol.pkt
 │   ├── 18-spanning-tree-portfast.pkt
+│   ├── 19-etherchannel-lacp.pkt
 │   ├── 2-basic-router.pkt
+│   ├── 20-etherchannel-pagp.pkt
 │   ├── 3-basic-vlan.pkt
 │   ├── 4-intermediate-vlan.pkt
 │   ├── 5-upper-intermediate-vlan.pkt
@@ -37,7 +39,6 @@ cisco-project-rega/
 │   ├── 7-basic-switch-virtual-interface.pkt
 │   ├── 8-exam-vlan.pkt
 │   ├── 9-remote-access-telnet.pkt
-│   └── README.md
 ├── lab-cisco-ccna/
 │   ├── simple-labs/
 │   │   ├── lab-1-basic-topology.pkt
@@ -48,10 +49,6 @@ cisco-project-rega/
 │   ├── advanced-labs/
 │   │   ├── lab-5-acl-configuration.pkt
 │   │   └── lab-6-nat-configuration.pkt
-│   └── README.md
-├── documentation/
-│   ├── CCNA-topics-covered.md
-│   └── commands-reference.md
 ├── LICENSE
 └── README.md (this file)
 ```
