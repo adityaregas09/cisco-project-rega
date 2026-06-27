@@ -40,15 +40,12 @@ cisco-project-rega/
 │   ├── 8-exam-vlan.pkt
 │   ├── 9-remote-access-telnet.pkt
 ├── lab-cisco-ccna/
-│   ├── simple-labs/
-│   │   ├── lab-1-basic-topology.pkt
-│   │   └── lab-2-inter-vlan-routing.pkt
-│   ├── intermediate-labs/
-│   │   ├── lab-3-ospf-routing.pkt
-│   │   └── lab-4-eigrp-routing.pkt
-│   ├── advanced-labs/
-│   │   ├── lab-5-acl-configuration.pkt
-│   │   └── lab-6-nat-configuration.pkt
+│   ├── a-simple-labs/
+│   │   └── 1-lab-low.pkt
+│   ├── b-intermediate-labs/
+│   │   └── 1-lab-medium.pkt
+│   ├── c-advanced-labs/
+│   │   └── 1-lab-high.pkt
 ├── LICENSE
 └── README.md (this file)
 ```
